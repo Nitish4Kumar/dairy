@@ -1,0 +1,80 @@
+body{
+  background-color: darkgrey;
+  text-align: center;
+  padding-top: 0px;
+  border-color:darkgrey;
+  margin: 0px;
+}
+
+.navbar{
+background-color: black;
+}
+
+h1{
+color:grey;
+padding-top: 20px;
+padding-left: 15px;
+font-size: 50px;
+margin-top: 0px;
+}
+
+
+input[type=text], input[type=password],input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    border-radius: 5px;
+    margin: 15px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+  /* Set a style for all buttons */
+button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100%;
+}
+
+  /* Add a hover effect for buttons */
+button:hover {
+    opacity: 0.8;
+}
+
+
+
+  /* Center the avatar image inside this container */
+.imgcontainer {
+    text-align: center;
+    margin-left: 525px;
+    margin-right: 525px;
+    max-width: 35%;
+    height: auto;
+}
+
+  /* Avatar image */
+img.avatar {
+    width: 40%;
+    border-radius: 50%;
+}
+
+  /* Add padding to containers */
+.container {
+    padding: 16px;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 5px;
+}
+
+span.psw{
+  padding: 10px;
+  padding-top: 10px;
+  padding-bottom: 40px;
+
+}
+
