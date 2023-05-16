@@ -1,3 +1,3 @@
-# Node.Js-Authentication-System
-
+# Dairy Farm Management system
+This web development project aims to create an online platform for a dairy farm to sell their products and enable shopkeepers to register their shops for purchasing the dairy products .
 This is a fully Functional Login, Register and Logout System Using Node.JS, Express, Passport and More...
